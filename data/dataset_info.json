@@ -1,0 +1,28 @@
+{
+  "creation_date": "2025-07-05T00:24:41.285086",
+  "data_quality": "sample_real_structure",
+  "description": "Sample datasets matching real educational data structures",
+  "datasets": {
+    "student_performance_behavior": {
+      "file": "student_performance_behavior.csv",
+      "rows": 1000,
+      "columns": 23,
+      "size_mb": 0.14,
+      "description": "Sample student_performance_behavior data with realistic structure"
+    },
+    "student_learning_behavior": {
+      "file": "student_learning_behavior.csv",
+      "rows": 800,
+      "columns": 18,
+      "size_mb": 0.17,
+      "description": "Sample student_learning_behavior data with realistic structure"
+    },
+    "uci_student_performance": {
+      "file": "uci_student_performance.csv",
+      "rows": 500,
+      "columns": 33,
+      "size_mb": 0.05,
+      "description": "Sample uci_student_performance data with realistic structure"
+    }
+  }
+}

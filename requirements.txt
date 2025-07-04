@@ -1,0 +1,44 @@
+# AI/ML Core Dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+tensorflow>=2.13.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Processing & Analysis
+scipy>=1.11.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Psychology & Cognitive Analysis
+psychopy>=2023.1.0
+mne>=1.4.0  # For EEG-like signal processing
+opencv-python>=4.8.0
+
+# Web Framework & API
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+sqlalchemy>=2.0.0
+
+# Real-time Processing
+redis>=4.6.0
+celery>=5.3.0
+websockets>=11.0
+
+# Development & Testing
+pytest>=7.4.0
+black>=23.0.0
+isort>=5.12.0
+flake8>=6.0.0
+jupyter>=1.0.0
+
+# Monitoring & Logging
+prometheus-client>=0.17.0
+structlog>=23.1.0
+
+# Environment & Config
+python-dotenv>=1.0.0
+pydantic-settings>=2.0.0 
