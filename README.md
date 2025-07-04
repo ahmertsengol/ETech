@@ -1,15 +1,15 @@
-# 🧠 AI Learning Psychology Analyzer
+# AI Learning Psychology Analyzer
 
 AI-powered system that analyzes student attention, cognitive load, and learning styles in real-time.
 
-## 🎯 Features
+##  Features
 
 - **Attention Tracking**: Real-time attention level monitoring (67.8% accuracy)
 - **Cognitive Load Assessment**: Mental workload analysis (37.6% accuracy)
 - **Learning Style Detection**: Personalized learning preferences (21.3% accuracy)
 - **Adaptive Recommendations**: Dynamic content adjustments
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Install dependencies**:
 ```bash
@@ -26,7 +26,7 @@ python demo.py
 python train_models_real_data.py
 ```
 
-## 📊 Usage
+##  Usage
 
 ```python
 from src.ai.core.psychology_analyzer import LearningPsychologyAnalyzer
@@ -39,14 +39,14 @@ print(f"Cognitive Load: {analysis['cognitive_load']}")
 print(f"Learning Style: {analysis['learning_style']}")
 ```
 
-## 🔧 Technical Stack
+## Technical Stack
 
 - **Python 3.11+**
 - **scikit-learn, pandas, numpy**
 - **Real educational data from 2,300+ samples**
 - **Clean Architecture with SOLID principles**
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -59,6 +59,6 @@ src/
 └── demo.py             # Demo application
 ```
 
-## 📄 License
+##  License
 
 MIT License - see LICENSE file for details. 
