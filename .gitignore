@@ -112,3 +112,8 @@ htmlcov/
 data/processed/*.csv
 data/processed/*.json
 data/processed/*.parquet 
+
+# Ai .md files
+.claude/
+COMPREHENSIVE_ANALYSIS_AND_RECOMMENDATIONS.md
+ENHANCED_MODELS_README.md
